@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Efood RecyclerView</string>
+    <string name="menu">Menu</string>
+    <string name="sandwiches">sandwiches</string>
+    <string name="_2_70">2,70</string>
+    <string name="burger">Burger</string>
+</resources>
